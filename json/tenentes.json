@@ -1,0 +1,43 @@
+[{
+    "nome": "fraldinha",
+    "patente": "ten",
+    "numero": 1,
+    "status": true,
+    "red": false,
+    "OM": "2° B I Mtz"
+}, {
+    "nome": "morte frona",
+    "patente": "ten",
+    "numero": 2,
+    "status": true,
+    "red": true,
+    "OM": "2° B I Mtz"
+}, {
+    "nome": "sem honra",
+    "patente": "ten",
+    "numero": 3,
+    "status": true,
+    "red": false,
+    "OM": "2° B I Mtz"
+}, {
+    "nome": "0",
+    "patente": "ten",
+    "numero": 4,
+    "status": true,
+    "red": true,
+    "OM": "2° B I Mtz"
+}, {
+    "nome": "negativo",
+    "patente": "ten",
+    "numero": 5,
+    "status": true,
+    "red": false,
+    "OM": "2° B I Mtz"
+}, {
+    "nome": "colado",
+    "patente": "ten",
+    "numero": 6,
+    "status": true,
+    "red": true,
+    "OM": "2° B I Mtz"
+}]

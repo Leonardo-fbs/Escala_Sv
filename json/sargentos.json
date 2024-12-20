@@ -1,0 +1,36 @@
+[{
+    "nome": "pereira",
+    "patente": "sgt",
+    "numero": 1,
+    "status": true,
+    "red": false,
+    "OM":"2° B I Mtz"
+}, {
+    "nome": "nascimento",
+    "patente": "sgt",
+    "numero": 2,
+    "status": true,
+    "red": true,
+    "OM": "2° B I Mtz"
+}, {
+    "nome": "silva",
+    "patente": "sgt",
+    "numero": 3,
+    "status": true,
+    "red": false,
+    "OM": "2° B I Mtz"
+}, {
+    "nome": "souza",
+    "patente": "sgt",
+    "numero": 4,
+    "status": true,
+    "red": true,
+    "OM": "2° B I Mtz"
+}, {
+    "nome": "mendes",
+    "patente": "sgt",
+    "numero": 5,
+    "status": true,
+    "red": true,
+    "OM": "2° B I Mtz"
+}]
